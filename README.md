@@ -1,3 +1,3 @@
-## dev.danieliwaniec.com
+## Daniel Iwaniec
 
 Simple blog
