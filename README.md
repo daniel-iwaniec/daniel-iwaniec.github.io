@@ -1,3 +1,3 @@
-## daniel-iwaniec.github.io
+## dev.danieliwaniec.com
 
 Simple blog
