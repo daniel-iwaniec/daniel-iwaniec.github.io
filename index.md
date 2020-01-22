@@ -1,8 +1,8 @@
 ---
-title: Daniel Iwaniec
+title: Simple blog
 ---
 
 # Posts
 
-* First post
-* Second post
+* [Second post](post/post1.md)
+* [First post](post/post2.md)
