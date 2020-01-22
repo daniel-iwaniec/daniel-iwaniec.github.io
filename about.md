@@ -1,3 +1,9 @@
 # About
 
-* me@danieliwaniec.com
+This is a simple dev blog.
+
+# Contact
+## Email
+me@danieliwaniec.com
+## Github
+github.com/daniel-iwaniec
