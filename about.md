@@ -1,3 +1,3 @@
-# Contact
+# About
 
 * me@danieliwaniec.com
