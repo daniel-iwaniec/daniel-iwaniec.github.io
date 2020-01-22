@@ -1,3 +1,3 @@
 # Agnostic Domain Mapping
 
-*To be published*
+*To be completed*
