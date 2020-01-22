@@ -2,4 +2,7 @@
 title: Daniel Iwaniec
 ---
 
-# This is the blog
+# Posts
+
+* First post
+* Second post
