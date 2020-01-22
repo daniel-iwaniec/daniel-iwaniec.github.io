@@ -1,6 +1,9 @@
-# About
+---
+title: About
+---
 
-This is a simple dev blog.
+# About
+This is a simple blog about IT development.
 
 # Contact
 ## Email
